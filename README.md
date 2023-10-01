@@ -2,7 +2,7 @@
 This project aims at providing insight into the sales performance of a hypothetical supermarket over the years 2021 to 2022 by analyzing various aspect to identify trends and make data driven decisions and get deep understanding of the supermarket’s performance.
 
 # Data Source
-The primary data used for the analysis is supermarket.xlsx sourced from Kaggle
+The primary data used for the analysis is supermarket.xlsx sourced from [this website](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbG5UcTFVQTVEYUVxcnNEdHNKOHNGUGd0SDlwUXxBQ3Jtc0tuT0dscmFlUC1lQnczSm00RVlxZDhjVmdKdWhJZVc2VlNiRk5UNEYwbHlwX1h2d09hTDk1TzFkYWFyYnljZVVEZEJHQ3VYdE42LUoydEdWa1lDWmtEYTA0azVjT3hmMXg0a3BzVnQ4bFlCTlFKV192aw&q=https%3A%2F%2Fleanexcelsolutions.com%2Fsales-dashboard-in-excel-power-bi%2F&v=bjLIA1vSqGs)
 
 # Tools Used
 For this analysis, Microsoft Excel was used for cleaning, mining, analyzing and visualizing using power query, pivot tables and pivot charts
