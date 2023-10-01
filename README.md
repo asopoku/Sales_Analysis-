@@ -38,9 +38,10 @@ the Total Sales was $401,412 while Total Profit was $68,908 with Profit% of 21%.
 - January recorded most Sales with Total Sales of $41,347 while  April recorded the least Sales with Total Sales of $26,579
 - January recorded most Profit with Total Profit of $7,058 while May recorded the least with Total Profit of $4,384
 
-  # Dashboard
+# Dashboard
 
-Recommendation
+
+# Recommendation
 From the findings, it is recommended that;
 - the supermarket keep more stocks of Product41 which was seen to have recorded the top selling product.
 - also, the supermarket must keep more stocks of products that are in Category04 since it was the top selling category.
