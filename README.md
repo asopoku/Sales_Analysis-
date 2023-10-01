@@ -39,6 +39,7 @@ the Total Sales was $401,412 while Total Profit was $68,908 with Profit% of 21%.
 - January recorded most Profit with Total Profit of $7,058 while May recorded the least with Total Profit of $4,384
 
 # Dashboard
+![Dashboard Excel](https://github.com/asopoku/Sales_Analysis-/assets/72577156/772ccc66-9d38-4c84-83ea-4e017c1c3a42)
 
 
 # Recommendation
